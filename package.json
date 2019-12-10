@@ -1,0 +1,23 @@
+{
+    "name": "hw",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^24.9.0"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/EmilioRosso/goit-js-hw-11-color-switch.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/EmilioRosso/goit-js-hw-11-color-switch/issues"
+    },
+    "homepage": "https://github.com/EmilioRosso/goit-js-hw-11-color-switch#readme"
+  }
